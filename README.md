@@ -68,6 +68,7 @@ Welcome to my GitHub profile! I'm a dedicated Frontend Developer who thrives on 
 
 ## 🏆 Achievements
 - 📜 Certified in SEIP
+- 📜 Certified in programming hero
 
 ## 📘 My Projects
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MdSaifulIslamRafsan&repo=CareerLinkup-client-side)](https://github.com/MdSaifulIslamRafsan/CareerLinkup-client-side)  | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdSaifulIslamRafsan&show_icons=true) |
