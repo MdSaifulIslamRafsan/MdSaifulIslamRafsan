@@ -76,7 +76,7 @@ Welcome to my GitHub profile! I'm a dedicated Frontend Developer who thrives on 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdSaifulIslamRafsan)](https://github.com/anuraghazra/github-readme-stats) | ![GitHub streak stats](https://streak-stats.demolab.com/?user=MdSaifulIslamRafsan) |
   
 
-- 📫 How to reach me **msaifulislamrafsan099@gmail.com**
+- 📫 How to reach me **mdsaifulislamrafsan099@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
