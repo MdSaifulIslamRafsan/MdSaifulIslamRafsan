@@ -11,9 +11,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout the code from the repository
       - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
+
+      # Generate the GitHub Contribution Snake Animation
+      - uses: Platane/snk@v3
         with:
           github_user: 'MdSaifulIslamRafsan'  # Replace with your GitHub username
           svg: true  # Generate SVG file
           gif: false  # Set to true if you want a gif instead
+
+      # Optionally, upload the generated SVG to a location
+      - name: Upload Snake Animation SVG
+        uses: actions/upload-artifact@v2
+        with:
+          name: github-contribution-snake
+          path: ./github-contribution-grid-snake.svg
