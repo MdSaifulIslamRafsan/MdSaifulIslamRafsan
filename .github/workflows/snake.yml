@@ -1,9 +1,10 @@
 name: Snake animation
 
 on:
-  schedule:
-    - cron: '0 0 * * *' 
-  workflow_dispatch:
+  push:
+    branches:
+      - main  # Trigger on push to the main branch
+  workflow_dispatch:  # Manual trigger
 
 jobs:
   build:
@@ -13,6 +14,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: Platane/snk@v2
         with:
-          github_user: 'MdSaifulIslamRafsan' 
-          gif: true 
-          svg: true 
+          github_user: 'MdSaifulIslamRafsan'  # Replace with your GitHub username
+          svg: true  # Generate SVG file
+          gif: false  # Set to true if you want a gif instead
