@@ -14,7 +14,7 @@
 
 Welcome to my GitHub profile! I'm a dedicated Frontend Developer who thrives on crafting engaging and user-friendly web experiences. My mission is to blend creativity with code to build beautiful, functional applications.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🌍 Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,firebase,nodejs,express,mongodb,nextjs,ts,redux,vue,git,github,figma,netlify,vercel" />
@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm a dedicated Frontend Developer who thrives on 
 
 - 📫 How to reach me **mdsaifulislamrafsan099@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mdsaifulislamrafsan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdsaifulislamrafsan/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mdsaifulislam.rafsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdsaifulislam.rafsan" height="30" width="40" /></a>
@@ -63,3 +63,8 @@ Welcome to my GitHub profile! I'm a dedicated Frontend Developer who thrives on 
 </p>
 
 <p> 💬 Ask me about Feel free to ask me anything related to these topics, or suggest something new! Let's have a chat and learn together. </p>
+
+## 🐍 My GitHub Contribution Snake
+![snake gif](https://github.com/MdSaifulIslamRafsan/MdSaifulIslamRafsan/blob/output/github-snake-dark.svg)
+
+
