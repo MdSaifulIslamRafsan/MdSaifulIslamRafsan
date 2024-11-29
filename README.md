@@ -14,7 +14,7 @@
 
 ## Welcome to my GitHub profile! 👋
 
-Hello! I'm a dedicated **Frontend developer** and **MERN Stack developer**  with a passion for creating dynamic, user-friendly web applications. I enjoy solving complex problems and thrive on the constant learning opportunities that come with coding.  
+Hello! I'm a dedicated **MERN Stack developer**  with a passion for creating dynamic, user-friendly web applications. I enjoy solving complex problems and thrive on the constant learning opportunities that come with coding.  
 
 💡 I believe coding is more than just writing lines of code—it's about crafting solutions, facing challenges, and turning ideas into reality. Every project I take on is a step toward improving my skills and contributing to the tech world.  
 
