@@ -21,7 +21,7 @@ Hello! I'm a dedicated **MERN Stack developer**  with a passion for creating dyn
 <h3 align="left">🌍 Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,firebase,nodejs,express,mongodb,nextjs,ts,redux,vue,git,github,figma,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,firebase,nodejs,express,mongodb,nextjs,ts,redux,graphql,vue,git,github,figma,netlify,vercel" />
   </a>
 </p>
 
