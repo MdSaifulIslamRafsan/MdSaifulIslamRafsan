@@ -2,7 +2,10 @@
 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
   <h1 style="margin: 0;">Hi there 👋 I'm</h1>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&vCenter=true&width=370&lines=Md+Saiful+Islam;Front-end+Developer;MERN-Stark+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&vCenter=true&width=420&lines=Md+Saiful+Islam;Front-end+Developer;MERN-Stack+Developer;Fullstack+Developer" alt="Typing SVG" />
+</a>
+
 </div>
 
 
@@ -18,12 +21,39 @@ Hello! I'm a dedicated **MERN Stack developer**  with a passion for creating dyn
 
 💡 I believe coding is more than just writing lines of code—it's about crafting solutions, facing challenges, and turning ideas into reality. Every project I take on is a step toward improving my skills and contributing to the tech world.  
 
-<h3 align="left">🌍 Languages and Tools:</h3>
+## Skills
+### 🖥️ Frontend
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,firebase,nodejs,express,mongodb,nextjs,ts,redux,graphql,vue,git,github,figma,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,bootstrap,js,ts,react,redux,nextjs,figma" alt="Frontend Skills" />
+ <p>
+  <a href="https://ui.shadcn.com/"><img src="https://img.shields.io/badge/shadcn%2Fui-%2326A69A.svg?style=flat&logo=shadcn&logoColor=white" height="28" alt="shadcn/ui" /></a>
+  <a href="https://ant.design/"><img src="https://img.shields.io/badge/ant%20design-0170FE?style=flat&logo=antdesign&logoColor=white" height="28" alt="Ant Design" /></a>
+</p>
+</p>
+
+### 🛠️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma" alt="Backend Skills" />
+</p>
+<p>
+  <a href="https://jwt.io/" title="JWT">
+    <img src="https://img.shields.io/badge/JWT-%23EA5057.svg?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" height="28" />
+  </a>
+  <a href="https://socket.io/" title="Socket.IO">
+    <img src="https://img.shields.io/badge/Socket.IO-%2310E7FF.svg?style=flat&logo=socket.io&logoColor=white" alt="Socket.IO" height="28" />
   </a>
 </p>
+
+### 💾 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" alt="Database Skills" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,netlify,vercel,postman" alt="DevOps & Tools" />
+</p>
+
 
 
 ##  🔭 I’m currently working on <br><br> 💍 SOULMATE Website
