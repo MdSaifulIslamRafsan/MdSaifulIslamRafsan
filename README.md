@@ -94,10 +94,10 @@ Hello! I'm a dedicated **Full Stack developer**  with a passion for creating dyn
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mdsaifulislamrafsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdsaifulislamrafsan" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/https://www.facebook.com/mdsaifulislam.rafsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdsaifulislam.rafsan" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/https://www.instagram.com/mdsaifulislam.rafsan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mdsaifulislam.rafsan/" height="30" width="40" /></a> -->
-<a href="https://discord.gg/mdsaifulislam_68613_24239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mdsaifulislam_68613_24239" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/mdsaifulislam_68613_24239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mdsaifulislam_68613_24239" height="30" width="40" /></a>
 <a href="https://wa.me/8801879746696" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-</a>
+</a> -->
 
 </p>
 
