@@ -2,8 +2,8 @@
 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
   <h1 style="margin: 0;">Hi there 👋 I'm</h1>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&vCenter=true&width=420&lines=Md+Saiful+Islam;Front-end+Developer;MERN-Stack+Developer;Full-Stack+Developer" alt="Typing SVG" />
+<a  href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=420&lines=Md+Saiful+Islam;Front-end+Developer;MERN-Stack+Developer;Full-Stack+Developer" alt="Typing SVG" />
 </a>
 
 </div>
