@@ -25,24 +25,17 @@ Hello! I'm a dedicated **Full Stack developer**  with a passion for creating dyn
 ### 🖥️ Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,bootstrap,js,ts,react,redux,nextjs,figma" alt="Frontend Skills" />
- <p>
-  <a href="https://ui.shadcn.com/"><img src="https://img.shields.io/badge/shadcn%2Fui-%2326A69A.svg?style=flat&logo=shadcn&logoColor=white" height="28" alt="shadcn/ui" /></a>
-  <a href="https://ant.design/"><img src="https://img.shields.io/badge/ant%20design-0170FE?style=flat&logo=antdesign&logoColor=white" height="28" alt="Ant Design" /></a>
-</p>
+ <img src="https://avatars.githubusercontent.com/u/139895814?v=4" height="45" alt="shadcn/ui" />
+ <img src="https://www.svgrepo.com/show/353401/ant-design.svg"  height="45" alt="Ant Design" />
 </p>
 
 ### 🛠️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma" alt="Backend Skills" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="Socket.IO" height="45" />
+  <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="JWT" height="45" />
 </p>
-<p>
-  <a href="https://jwt.io/" title="JWT">
-    <img src="https://img.shields.io/badge/JWT-%23EA5057.svg?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" height="28" />
-  </a>
-  <a href="https://socket.io/" title="Socket.IO">
-    <img src="https://img.shields.io/badge/Socket.IO-%2310E7FF.svg?style=flat&logo=socket.io&logoColor=white" alt="Socket.IO" height="28" />
-  </a>
-</p>
+
 
 ### 💾 Database
 <p>
