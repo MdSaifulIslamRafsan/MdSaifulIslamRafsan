@@ -3,7 +3,7 @@
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
   <h1 style="margin: 0;">Hi there 👋 I'm</h1>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&vCenter=true&width=420&lines=Md+Saiful+Islam;Front-end+Developer;MERN-Stack+Developer;Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&vCenter=true&width=420&lines=Md+Saiful+Islam;Front-end+Developer;MERN-Stack+Developer;Full-Stack+Developer" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,7 +17,7 @@
 
 ## Welcome to my GitHub profile! 👋
 
-Hello! I'm a dedicated **MERN Stack developer**  with a passion for creating dynamic, user-friendly web applications. I enjoy solving complex problems and thrive on the constant learning opportunities that come with coding.  
+Hello! I'm a dedicated **Full Stack developer**  with a passion for creating dynamic, user-friendly web applications. I enjoy solving complex problems and thrive on the constant learning opportunities that come with coding.  
 
 💡 I believe coding is more than just writing lines of code—it's about crafting solutions, facing challenges, and turning ideas into reality. Every project I take on is a step toward improving my skills and contributing to the tech world.  
 
@@ -65,12 +65,14 @@ Hello! I'm a dedicated **MERN Stack developer**  with a passion for creating dyn
   
   
 ## 📚 currently learning:
-<p>✔  Advanced concepts in **Next.js** for SSR/SSG applications. </p>     
+<!-- <p>✔  Advanced concepts in **Next.js** for SSR/SSG applications. </p>     
 <p>✔ Mastering the **MongoDB Aggregation Framework** and **Aggregation Pipeline Operators** for efficient data processing and transformation.
 </p>
 <p>✔ Enhancing proficiency in **Mongoose** for data modeling and validation. </p>
 <p>✔ Structuring scalable applications with the **Express Modular System**. </p>
-<p>✔ Strengthening skills in **TypeScript** for type-safe development. </p>
+<p>✔ Strengthening skills in **TypeScript** for type-safe development. </p> -->
+<p>✔ Building real-time applications using <strong>Socket.io</strong> (events, rooms, broadcasting).</p>
+<p>✔ Learning <strong>Docker</strong> for containerization, environment consistency, and deployment workflows.</p>
 
 
 
@@ -89,10 +91,14 @@ Hello! I'm a dedicated **MERN Stack developer**  with a passion for creating dyn
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdsaifulislamrafsan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdsaifulislamrafsan/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mdsaifulislam.rafsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdsaifulislam.rafsan" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mdsaifulislam.rafsan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mdsaifulislam.rafsan/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdsaifulislamrafsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdsaifulislamrafsan" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/https://www.facebook.com/mdsaifulislam.rafsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdsaifulislam.rafsan" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/https://www.instagram.com/mdsaifulislam.rafsan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mdsaifulislam.rafsan/" height="30" width="40" /></a> -->
 <a href="https://discord.gg/mdsaifulislam_68613_24239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mdsaifulislam_68613_24239" height="30" width="40" /></a>
+<a href="https://wa.me/8801879746696" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+</a>
+
 </p>
 
 <p> 💬 Ask me about Feel free to ask me anything related to these topics, or suggest something new! Let's have a chat and learn together. </p>
