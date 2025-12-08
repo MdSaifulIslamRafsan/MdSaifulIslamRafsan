@@ -24,7 +24,7 @@ Hello! I'm a dedicated **Full Stack developer**  with a passion for creating dyn
 ## Skills
 ### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,bootstrap,js,ts,react,redux,nextjs,figma" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,bootstrap,js,ts,react,redux,nextjs" alt="Frontend Skills" />
  <img src="https://avatars.githubusercontent.com/u/139895814?v=4" height="45" alt="shadcn/ui" />
  <img src="https://www.svgrepo.com/show/353401/ant-design.svg"  height="45" alt="Ant Design" />
 </p>
@@ -44,7 +44,7 @@ Hello! I'm a dedicated **Full Stack developer**  with a passion for creating dyn
 
 ### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,netlify,vercel,postman" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,figma,netlify,vercel,postman" alt="DevOps & Tools" />
 </p>
 
 
